@@ -1,0 +1,50 @@
+UKBD WORLD TRADES PLC
+GLOBAL OPPORTUNITIES. CONNECTED FUTURES.
+
+HOME
+Connecting People, Education and Global Business
+Explore international education, recruitment, trade and partnership enquiries through UKBD World Trades PLC.
+Calls to action: Make an Enquiry | Partner With Us
+
+OUR FOCUS
+Connecting opportunities across borders
+Explore our areas of interest and contact our team to discuss the services and opportunities currently available.
+
+Education Consultancy
+Enquiries about international study pathways, applications and education connections.
+
+Healthcare Recruitment
+Conversations with healthcare candidates, employers and potential agency partners.
+
+International Trade
+Import, export, supplier and commercial collaboration enquiries.
+
+Global Partnerships
+Explore potential relationships with agents, institutions and businesses.
+
+ABOUT UKBD
+A platform for international connections
+UKBD World Trades PLC aims to bring together people and organisations interested in education, recruitment, trade and cross-border business relationships.
+Our website serves as a starting point for conversations. Specific services, eligibility and commercial terms should be confirmed directly before making commitments.
+
+PARTNERSHIPS
+Explore a partnership with UKBD
+We welcome initial enquiries from organisations and individuals seeking international collaboration.
+- Education institutions and prospective agents
+- Healthcare employers and recruitment partners
+- Suppliers, buyers and trade organisations
+- Businesses exploring cross-border opportunities
+
+CONTACT
+Let's explore what we can build together.
+Tell us about your enquiry and the opportunity you want to discuss.
+UKBD World Trades PLC
+Website: https://ukbdplc.com
+Email and telephone: To be confirmed before publication.
+
+LAUNCH NOTES
+- Design uses navy-blue corporate styling and building photography.
+- HTML is a static, responsive single-page website; photos load from Unsplash and require internet access.
+- There is no working application portal, upload system or contact submission form.
+- Add verified contact details, company disclosures, privacy terms, and appropriate legal/compliance reviews before public launch.
+- Upload the HTML as index.html to the correct hosting document root after backing up any existing website.
